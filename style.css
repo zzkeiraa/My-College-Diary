@@ -84,7 +84,7 @@ body {
 }
 
 .home-text {
-  max-width: 50%;
+  max-width: 70%;
 }
 
 .home-text h2 {
@@ -97,7 +97,6 @@ body {
 .home-text p {
   font-size: 60px;
   color: #6e4c54;
-  margin-right: 50px;
 }
 
 .home-image img {
